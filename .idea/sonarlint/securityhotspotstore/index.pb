@@ -13,3 +13,6 @@ W
 'src/interview/tp/NumberOccurrences.java,3\f\3f1d7f49e2cac3c70910141573ebae75295bb36e
 P
  src/interview/tp/Palindrome.java,7\e\7eb3554651e614f80fe2dbcb555a244b1da5cba4
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
