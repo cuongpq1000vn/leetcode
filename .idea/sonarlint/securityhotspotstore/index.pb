@@ -24,3 +24,9 @@ N
 src/interview/tp/ThreeSum.java,d\a\da4013b826c3faa66989e0d73ff6103c276c3c6b
 N
 src/interview/tp/TwoSumII.java,0\c\0cf8bdaf902c066c7a1c0fc959841e34882bd295
+S
+#src/interview/sw/GoodSubstring.java,c\0\c0d501d7d5e5b08a40e646d25317ab62f8a6265f
+N
+src/interview/sw/MoveZero.java,5\e\5e0d7cfa7151746742e734c71fd3215fb3114fb3
+S
+#src/interview/tp/IsSubsequence.java,8\3\83cfc00d1298ed950c4eb36e055329aefe69dd53
