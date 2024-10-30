@@ -20,7 +20,6 @@ public class ThreeSum {
     Set<List<Integer>> groupThree = new HashSet<>();
     Arrays.sort(nums);
     for (int i = 0; i < nums.length; i++) {
-
       int left = i + 1;
       int right = nums.length - 1;
       int target = -nums[i];
@@ -37,7 +36,6 @@ public class ThreeSum {
           right--;
         }
       }
-
     }
     return groupThree.stream().toList();
   }
