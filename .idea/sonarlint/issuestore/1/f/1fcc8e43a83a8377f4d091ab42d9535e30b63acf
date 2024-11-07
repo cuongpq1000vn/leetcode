@@ -1,5 +1,5 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(Õı±¸ıÿÿÿÿ8ÍœÛ­2
+L	java:S106"+Replace this use of System.out by a logger.(Õı±¸ıÿÿÿÿ8øÛ®®2
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”Ü¿µ8ÏœÛ­2
-L	java:S106@"+Replace this use of System.out by a logger.(‘ÃıÔıÿÿÿÿ8Ï³¤Û­2
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”Ü¿µ8‚Ü®®2
+L	java:S106@"+Replace this use of System.out by a logger.(‘ÃıÔıÿÿÿÿ8˜Ü®®2

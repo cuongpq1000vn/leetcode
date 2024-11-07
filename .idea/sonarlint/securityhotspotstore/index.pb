@@ -30,3 +30,9 @@ N
 src/interview/sw/MoveZero.java,5\e\5e0d7cfa7151746742e734c71fd3215fb3114fb3
 S
 #src/interview/tp/IsSubsequence.java,8\3\83cfc00d1298ed950c4eb36e055329aefe69dd53
+U
+%src/interview/assessment/shuffle.java,d\d\ddec7acd9b93c25aba0c7e375f0e6f43bd968b2d
+T
+$src/interview/assessment/MaxRep.java,b\0\b0d29c8bd32492086d98740258496b3ef4c926bd
+U
+%src/interview/assessment/Shuffle.java,6\9\6992fc950a62e977f457be7f9469305821d2508f
