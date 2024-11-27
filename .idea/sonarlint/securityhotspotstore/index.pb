@@ -42,3 +42,5 @@ Y
 )src/interview/oop/ExampleOverloading.java,5\f\5f67371326434be7e0616dd6c782baf25b329cd8
 X
 (src/interview/oop/ExampleOverriding.java,f\f\ffd01540ceb824105a83343fdbc00b37e94c198f
+[
++src/interview/microsoft/CyclicRotation.java,a\c\ac48973ee59500068849dff9966456345e8fbe1d
